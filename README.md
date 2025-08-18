@@ -1,1 +1,1 @@
-[![Social banner for KayVee78](https://github.com/KayVee78/KayVee78/blob/main/assets/KayVee-banner.gif)]
+![Social banner for KayVee78](https://github.com/KayVee78/KayVee78/blob/main/assets/KayVee-banner.gif)
