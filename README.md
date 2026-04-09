@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hey%2C%20I'm%20Kithmi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=KayVee78%20%E2%80%A2%20she%2Fher%20%E2%80%A2%20Colombo%2C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:818CF8,100:38BDF8&height=200&section=header&text=Hey%2C%20I'm%20Kithmi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=KayVee78%20%E2%80%A2%20she%2Fher%20%E2%80%A2%20Colombo%2C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=16" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Infinitum+360+%F0%9F%92%BC;Backend+Systems+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Applied+AI+%26+ML+for+Production+%F0%9F%A7%A0;Full-Stack+Developer+(PERN+Stack)+%F0%9F%9A%80;Blockchain+%26+Web3+Explorer+%E2%9B%93" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Infinitum+360+%F0%9F%92%BC;Backend+Systems+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Applied+AI+%26+ML+for+Production+%F0%9F%A7%A0;Full-Stack+Developer+(PERN+Stack)+%F0%9F%9A%80;Blockchain+%26+Web3+Explorer+%E2%9B%93" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kithmi-hetti-709966219)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/journal_of_kayvee)
-[![GitHub followers](https://img.shields.io/github/followers/KayVee78?style=for-the-badge&color=6EE7B7&labelColor=1a1a2e&logo=github&label=Follow)](https://github.com/KayVee78)
-[![Profile Views](https://komarev.com/ghpvc/?username=KayVee78&style=for-the-badge&color=6EE7B7&label=VISITORS)](https://github.com/KayVee78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kithmi-hetti-709966219)
+[![Instagram](https://img.shields.io/badge/Instagram-F472B6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/journal_of_kayvee)
+[![GitHub followers](https://img.shields.io/github/followers/KayVee78?style=for-the-badge&color=C084FC&labelColor=2d1b69&logo=github&label=Follow)](https://github.com/KayVee78)
+[![Profile Views](https://komarev.com/ghpvc/?username=KayVee78&style=for-the-badge&color=F472B6&label=VISITORS)](https://github.com/KayVee78)
 
 </div>
 
@@ -41,94 +41,97 @@
 
 ---
 
-## 🛠️ My Favourite Tools
-
 <details open>
-<summary>👩‍💻 Programming and Markup Languages</summary>
-<br/>
+  <summary><h2>🛠️ My Favourite Tools</h2></summary>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+  <h3>👩‍💻 Programming and Markup Languages</h3>
 
-</details>
+  <p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-818CF8.svg?logo=typescript&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python-C084FC.svg?logo=python&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-F472B6.svg?logo=openjdk&logoColor=white">
+    <img alt="R" src="https://img.shields.io/badge/R-38BDF8.svg?logo=r&logoColor=white">
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-a78bfa.svg?logo=solidity&logoColor=white">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-fb7185.svg?logo=html5&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-38BDF8.svg?logo=css3&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-818CF8.svg?logo=mysql&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-6d28d9.svg?logo=markdown&logoColor=white">
+  </p>
 
-<details open>
-<summary>🧰 Frameworks and Libraries</summary>
-<br/>
+  <h3>🧰 Frameworks and Libraries</h3>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  <p>
+    <img alt="React" src="https://img.shields.io/badge/React-1d4ed8.svg?logo=react&logoColor=61DAFB">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-6d28d9.svg?logo=nextdotjs&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-16a34a.svg?logo=nodedotjs&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/Express-374151.svg?logo=express&logoColor=white">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-15803d.svg?logo=spring&logoColor=white">
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0e7490.svg?logo=tailwindcss&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-818CF8.svg?logo=pandas&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-C084FC.svg?logo=numpy&logoColor=white">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-F472B6.svg?logo=tensorflow&logoColor=white">
+  </p>
 
-</details>
+  <h3>🗄️ Databases and Cloud Hosting</h3>
 
-<details open>
-<summary>🗄️ Databases and Cloud Hosting</summary>
-<br/>
+  <p>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-818CF8.svg?logo=postgresql&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-16a34a.svg?logo=mongodb&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-38BDF8.svg?logo=mysql&logoColor=white">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-6d28d9.svg?logo=vercel&logoColor=white">
+    <img alt="Render" src="https://img.shields.io/badge/Render-0e7490.svg?logo=render&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-4c1d95.svg?logo=githubpages&logoColor=white">
+  </p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+  <h3>💻 Software and Tools</h3>
 
-</details>
-
-<details open>
-<summary>💻 Software and Tools</summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-fb7185.svg?logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-6d28d9.svg?logo=github&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-38BDF8.svg?logo=visualstudiocode&logoColor=white">
+    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-F472B6.svg?logo=intellijidea&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-fb923c.svg?logo=postman&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-818CF8.svg?logo=docker&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F472B6.svg?logo=jupyter&logoColor=white">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-C084FC.svg?logo=figma&logoColor=white">
+  </p>
 
 </details>
 
 ---
 
-## 📊 Stats and Activity
+<details open>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-### 🔥 Streak Stats
+  <h3>🔥 Streak Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KayVee78&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7B7&ring=3B82F6&fire=FF6B6B&currStreakLabel=6EE7B7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=KayVee78&theme=radical&hide_border=true&background=0f0a1e&stroke=C084FC&ring=F472B6&fire=fb7185&currStreakLabel=C084FC&sideLabels=a78bfa&dates=6d28d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-### 💻 GitHub Profile Stats
+  <h3>💻 GitHub Profile Stats</h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayVee78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=3B82F6&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayVee78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9&langs_count=8"/>
-</div>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayVee78&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0a1e&title_color=C084FC&icon_color=F472B6&text_color=e2e8f0"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayVee78&layout=compact&theme=radical&hide_border=true&bg_color=0f0a1e&title_color=C084FC&text_color=e2e8f0&langs_count=8"/>
+  </div>
 
-> **Note:** Top languages is only a metric of what my public code consists of and doesn't reflect experience or skill level.
+  > **Note:** Top languages is only a metric of what my public code consists of and doesn't reflect experience or skill level.
 
-### 📈 Contribution Graph
+  <h3>📈 Contribution Graph</h3>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KayVee78&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6EE7B7&line=3B82F6&point=FF6B6B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KayVee78&theme=tokyo-night&hide_border=true&bg_color=0f0a1e&color=C084FC&line=F472B6&point=fb7185&area=true&area_color=C084FC)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ⚡ Recent GitHub Activity
+  <h3>⏱️ This Week I Spent My Time On</h3>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
 
 ---
 
@@ -138,13 +141,13 @@
 
 Got an interesting project, a collaboration idea, or just want to chat about tech?
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kithmi-hetti-709966219)
-[![Instagram](https://img.shields.io/badge/Follow%20@journal__of__kayvee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/journal_of_kayvee)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kithmi-hetti-709966219)
+[![Instagram](https://img.shields.io/badge/Follow%20@journal__of__kayvee-F472B6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/journal_of_kayvee)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:818CF8,100:C084FC&height=100&section=footer" width="100%"/>
 </div>
