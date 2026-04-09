@@ -13,7 +13,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kithmi-hetti-709966219)
-[![Instagram](https://img.shields.io/badge/Instagram-F472B6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/journal_of_kayvee)
+[![Instagram](https://img.shields.io/badge/Instagram-F472B6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayvee.dev)
 [![GitHub followers](https://img.shields.io/github/followers/KayVee78?style=for-the-badge&color=C084FC&labelColor=2d1b69&logo=github&label=Follow)](https://github.com/KayVee78)
 [![Profile Views](https://komarev.com/ghpvc/?username=KayVee78&style=for-the-badge&color=F472B6&label=VISITORS)](https://github.com/KayVee78)
 
@@ -143,7 +143,7 @@
 Got an interesting project, a collaboration idea, or just want to chat about tech?
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kithmi-hetti-709966219)
-[![Instagram](https://img.shields.io/badge/Follow%20@journal__of__kayvee-F472B6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/journal_of_kayvee)
+[![Instagram](https://img.shields.io/badge/Follow%20@journal__of__kayvee-F472B6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayvee.dev)
 
 </div>
 
