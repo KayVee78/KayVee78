@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=false&width=650&lines=Software+Engineer+%40+Infinitum+360+%F0%9F%92%BC;Backend+Systems+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Applied+AI+%26+ML+Foundations+%F0%9F%A7%A0;Designing+Intelligent+Systems+for+Production+%F0%9F%8F%AD;Full-Stack+Developer+(PERN+Stack)+%F0%9F%9A%80;Blockchain+%26+Web3+Explorer+%E2%9B%93" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Infinitum+360+%F0%9F%92%BC;Backend+Systems+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Applied+AI+%26+ML+for+Production+%F0%9F%A7%A0;Full-Stack+Developer+(PERN+Stack)+%F0%9F%9A%80;Blockchain+%26+Web3+Explorer+%E2%9B%93" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -21,37 +21,20 @@
 
 ---
 
-## 🙋‍♀️ About Me
-
 <table>
   <tr>
-    <td valign="top" width="55%">
+    <td valign="middle" width="55%">
 
-```typescript
-const kayvee: Developer = {
-  name:     "Kithmi Hettiarachchi",
-  alias:    "KayVee78",
-  location: "Colombo, Sri Lanka 🇱🇰",
-  role:     "Software Engineer @ Infinitum 360",
-  focus:    [
-    "Backend Systems & DevOps",
-    "Cloud Infrastructure",
-    "Production Systems",
-  ],
-  building: "Applied AI & ML foundations —" +
-            " intelligent systems that work" +
-            " in real production environments 🏭",
-  stack:    ["React", "Next.js", "Node",
-             "PostgreSQL", "TypeScript"],
-  exploring: ["Solidity", "Applied ML",
-              "MLOps", "TensorFlow"],
-  funFact:  "Coffee ☕ + lo-fi = unstoppable",
-};
-```
+**Software Engineer** focused on backend systems and DevOps, working with cloud infrastructure and production systems. Alongside this, building strong foundations in **Applied AI and Machine Learning** — with the goal of developing intelligent systems that actually work in production environments.
+
+- 🏢 **Work** — Software Engineer @ Infinitum 360
+- 🎓 **Study** — BSc Software Engineering
+- 🌍 **Based in** — Colombo, Sri Lanka
+- ⚡ **Currently** — Backend · Cloud · Applied ML
 
   </td>
   <td valign="middle" align="center" width="45%">
-    <img src="/assets/KayVee-banner.gif" alt="KayVee78 banner" width="320"/>
+    <img src="KayVee-banner.gif" alt="KayVee78" width="300"/>
   </td>
   </tr>
 </table>
@@ -146,30 +129,6 @@ const kayvee: Developer = {
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-## 🗺️ Applied AI & ML Roadmap
-
-> *Building Applied AI & ML foundations with one goal: intelligent systems
-> that work in real production environments — not just in notebooks.*
-
-| Phase | Focus Area | Status |
-|-------|-----------|--------|
-| **Phase 1** — Foundations | Python · NumPy · Pandas · Statistics | 🟡 In Progress |
-| **Phase 2** — ML Core | Scikit-learn · Supervised & Unsupervised Learning | ⬜ Upcoming |
-| **Phase 3** — Deep Learning | TensorFlow · PyTorch · CNNs · RNNs | ⬜ Upcoming |
-| **Phase 4** — Applied AI | NLP · LLMs · RAG · Fine-tuning | ⬜ Upcoming |
-| **Phase 5** — Production AI | MLOps · Cloud Deployment · Real Projects | ⬜ Upcoming |
-
----
-
-## 🌱 Currently Learning
-
-- ☁️ Cloud infrastructure & production system design
-- 🧠 Applied ML foundations — Python, statistics, Pandas, Scikit-learn
-- ⛓️ Smart contract development with Solidity
-- 📊 Statistical modelling with R
 
 ---
 
