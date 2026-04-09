@@ -28,13 +28,14 @@
 **Software Engineer** focused on backend systems and DevOps, working with cloud infrastructure and production systems. Alongside this, building strong foundations in **Applied AI and Machine Learning** — with the goal of developing intelligent systems that actually work in production environments.
 
 - 🏢 **Work** — Software Engineer @ Infinitum 360
-- 🎓 **Study** — BSc Software Engineering
+- 🎓 **Study** — BSc (Hons) Computer Science
 - 🌍 **Based in** — Colombo, Sri Lanka
-- ⚡ **Currently** — Backend · Cloud · Applied ML
+- ⚡ **Currently** — Backend · Cloud
+- 🧠 **Exploring** —  AI · ML
 
   </td>
   <td valign="middle" align="center" width="45%">
-    <img src="KayVee-banner.gif" alt="KayVee78" width="300"/>
+    <img src="/assets/KayVee-banner.gif" alt="KayVee78" width="300"/>
   </td>
   </tr>
 </table>
