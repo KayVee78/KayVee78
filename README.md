@@ -125,7 +125,74 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 344 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 20 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2624 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+🌆 Daytime                3453 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌃 Evening                6323 commits        ████████████░░░░░░░░░░░░░   46.17 % 
+🌙 Night                  1296 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2343 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Tuesday                  910 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Wednesday                2733 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Thursday                 1121 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Friday                   951 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Saturday                 1962 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Sunday                   3676 commits        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               14 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Java                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+HCL                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+```
+
+
+
+
+ Last Updated on 09/04/2026 12:00:57 UTC
+<!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
 
