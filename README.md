@@ -25,7 +25,7 @@
   <tr>
     <td valign="middle" width="55%">
 
-**Software Engineer** focused on backend systems and DevOps, working with cloud infrastructure and production systems. Alongside this, building strong foundations in **Applied AI and Machine Learning** — with the goal of developing intelligent systems that actually work in production environments.
+**Software Engineer** focused on backend systems and DevOps, working with cloud infrastructure and production systems. Alongside this, building strong foundations in **Applied AI and Machine Learning**, with the goal of developing intelligent systems that actually work in production environments.
 
 - 🏢 **Work** — Software Engineer @ Infinitum 360
 - 🎓 **Study** — BSc (Hons) Computer Science
