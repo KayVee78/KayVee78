@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Infinitum+360+%F0%9F%92%BC;Backend+Systems+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Applied+AI+%26+ML+for+Production+%F0%9F%A7%A0;Full-Stack+Developer+(PERN+Stack)+%F0%9F%9A%80;Blockchain+%26+Web3+Explorer+%E2%9B%93" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%80%94+Backend+%26+Cloud+%E2%98%81%EF%B8%8F;Computer+Science+Undergrad+%F0%9F%8E%93;Exploring+Applied+AI+%26+ML+%F0%9F%A7%A0;Building+Intelligent+Production+Systems+%F0%9F%8F%AD" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -31,7 +31,7 @@
 - 🎓 **Study** — BSc (Hons) Computer Science
 - 🌍 **Based in** — Colombo, Sri Lanka
 - ⚡ **Currently** — Backend · Cloud
-- 🧠 **Exploring** —  AI · ML
+- 🧠 **Exploring** — AI · ML
 
   </td>
   <td valign="middle" align="center" width="45%">
@@ -107,20 +107,20 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=KayVee78&theme=radical&hide_border=true&background=0f0a1e&stroke=C084FC&ring=F472B6&fire=fb7185&currStreakLabel=C084FC&sideLabels=a78bfa&dates=6d28d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KayVee78&theme=radical&hide_border=true&background=0f0a1e&stroke=C084FC&ring=F472B6&fire=fb7185&currStreakLabel=C084FC&sideLabels=a78bfa&dates=6d28d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayVee78&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0a1e&title_color=C084FC&icon_color=F472B6&text_color=e2e8f0"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayVee78&layout=compact&theme=radical&hide_border=true&bg_color=0f0a1e&title_color=C084FC&text_color=e2e8f0&langs_count=8"/>
-  </div>
+<div align="center">
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KayVee78&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0a1e&title_color=C084FC&icon_color=F472B6&text_color=e2e8f0"/>
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KayVee78&layout=compact&hide_border=true&bg_color=0f0a1e&title_color=C084FC&text_color=e2e8f0&langs_count=8"/>
+</div>
 
-  > **Note:** Top languages is only a metric of what my public code consists of and doesn't reflect experience or skill level.
+> **Note:** Top languages is only a metric of what my public code consists of and doesn't reflect experience or skill level.
 
   <h3>📈 Contribution Graph</h3>
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KayVee78&theme=tokyo-night&hide_border=true&bg_color=0f0a1e&color=C084FC&line=F472B6&point=fb7185&area=true&area_color=C084FC)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KayVee78&theme=tokyo-night&hide_border=true&bg_color=0f0a1e&color=C084FC&line=F472B6&point=fb7185&area=true&area_color=C084FC)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <h3>⏱️ This Week I Spent My Time On</h3>
 
