@@ -125,13 +125,11 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 344 Contributions in the Year 2026
+> 🏆 348 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,16 +164,19 @@ Sunday                   3676 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             ████████████████░░░░░░░░░   65.03 % 
+YAML                     6 mins              ████████░░░░░░░░░░░░░░░░░   33.68 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+KayVee78                 19 mins             █████████████████████████   98.71 % 
+ig-notification-api      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -191,7 +192,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2026 12:00:57 UTC
+ Last Updated on 10/04/2026 03:32:59 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
