@@ -219,7 +219,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 Got an interesting project, a collaboration idea, or just want to chat about tech?
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kithmi-hetti-709966219)
-[![Instagram](https://img.shields.io/badge/Follow%20@journal__of__kayvee-F472B6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayvee.dev)
+[![Instagram](https://img.shields.io/badge/Follow%20@kayvee.dev-F472B6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayvee.dev)
 
 </div>
 
