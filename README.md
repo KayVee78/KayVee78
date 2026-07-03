@@ -166,24 +166,19 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Markdown                 1 hr 4 mins         ███████████████░░░░░░░░░░   58.83 % 
-Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-HCL                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Terraform                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Other                    26 mins             █████████████████████████   98.30 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Claude Code              1 hr 38 mins        ██████████████████████░░░   89.37 % 
-VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Claude Code              26 mins             █████████████████████████   98.30 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            1 hr 28 mins        ████████████████████░░░░░   80.75 % 
-ig-server-v2             20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-IG User Creation         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Terraform Projects       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+igt-server-v2            26 mins             █████████████████████████   98.30 % 
+IG User Creation         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -199,7 +194,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2026 04:12:03 UTC
+ Last Updated on 03/07/2026 03:58:26 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
