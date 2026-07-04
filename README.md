@@ -125,7 +125,7 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -166,19 +166,21 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    26 mins             █████████████████████████   98.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+HCL                      1 hr 21 mins        █████████████░░░░░░░░░░░░   53.80 % 
+Terraform                26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+JavaScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Claude Code              26 mins             █████████████████████████   98.30 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Claude Code              2 hrs 19 mins       ███████████████████████░░   92.62 % 
+VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            26 mins             █████████████████████████   98.30 % 
-IG User Creation         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+igt-server-v2            2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -194,7 +196,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2026 03:58:26 UTC
+ Last Updated on 04/07/2026 03:51:55 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
