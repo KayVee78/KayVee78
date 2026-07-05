@@ -125,7 +125,7 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -166,21 +166,22 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-HCL                      1 hr 21 mins        █████████████░░░░░░░░░░░░   53.80 % 
-Terraform                26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-JavaScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+HCL                      1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.68 % 
+HTML                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+JavaScript               48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Terraform                26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 19 mins       ███████████████████████░░   92.62 % 
-VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Claude Code              3 hrs 36 mins       ████████████████████████░   95.11 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            2 hrs 31 mins       █████████████████████████   100.00 % 
+igt-server-v2            2 hrs 31 mins       █████████████████░░░░░░░░   66.31 % 
+DABS                     1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -196,7 +197,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2026 03:51:55 UTC
+ Last Updated on 05/07/2026 04:10:30 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
