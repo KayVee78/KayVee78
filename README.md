@@ -166,22 +166,23 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-HCL                      1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.68 % 
-HTML                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-JavaScript               48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Terraform                26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+XML                      1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+HCL                      1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+JavaScript               59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Terraform                42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 36 mins       ████████████████████████░   95.11 % 
-VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Claude Code              5 hrs 51 mins       ████████████████████████░   94.70 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            2 hrs 31 mins       █████████████████░░░░░░░░   66.31 % 
-DABS                     1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+igt-server-v2            4 hrs 50 mins       ████████████████████░░░░░   78.08 % 
+DABS                     1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+igt-config-repo          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -197,7 +198,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 04:18:10 UTC
+ Last Updated on 07/07/2026 04:07:29 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
