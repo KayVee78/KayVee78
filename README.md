@@ -125,7 +125,7 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2039%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -166,24 +166,25 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Terraform                3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.64 % 
-HCL                      2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-XML                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Terraform                4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+TypeScript               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+XML                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+YAML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 11 mins       █████████████████████░░░░   82.64 % 
-VS Code                  1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Claude Code              10 hrs 26 mins      ███████████████████░░░░░░   74.36 % 
+VS Code                  3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            10 hrs 22 mins      ███████████████████████░░   93.23 % 
-igt-config-repo          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-DABS                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-igt-dabs-service         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+igt-server-v2            9 hrs 28 mins       █████████████████░░░░░░░░   67.53 % 
+igt-auth-service         2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+igt-config-repo          1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+DABS                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+auth cognito             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Windows                  11 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -199,7 +200,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2026 04:03:56 UTC
+ Last Updated on 11/07/2026 03:28:13 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
