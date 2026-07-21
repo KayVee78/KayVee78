@@ -166,26 +166,26 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Terraform                4 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.42 % 
-Bash                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-HCL                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-TypeScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Terraform                5 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
+Bash                     1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+HCL                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 18 mins       ███████████████████░░░░░░   77.54 % 
-VS Code                  1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Antigravity IDE          45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Claude Code              8 hrs 48 mins       ███████████████████░░░░░░   76.44 % 
+VS Code                  1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Antigravity IDE          45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            7 hrs 3 mins        ████████████████░░░░░░░░░   65.84 % 
-auth cognito             2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-igt-auth-service         1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-igt-dabs-web-app         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-igt-dabs-service         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+igt-server-v2            7 hrs 38 mins       █████████████████░░░░░░░░   66.38 % 
+auth cognito             1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+DABS                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+igt-config-repo          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+igt-lambda-dabs-report-ge15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -201,7 +201,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 03:51:12 UTC
+ Last Updated on 21/07/2026 03:33:59 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
