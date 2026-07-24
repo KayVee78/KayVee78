@@ -125,8 +125,6 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2011%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
@@ -166,25 +164,24 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Bash                     1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   39.60 % 
-Other                    47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Terraform                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Other                    47 mins             ████████░░░░░░░░░░░░░░░░░   33.28 % 
+YAML                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Terraform                25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 23 mins       ████████████████████░░░░░   80.06 % 
-VS Code                  50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Claude Code              1 hr 33 mins        ████████████████░░░░░░░░░   64.84 % 
+VS Code                  50 mins             █████████░░░░░░░░░░░░░░░░   35.16 % 
 
 🐱‍💻 Projects: 
-auth cognito             1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
-DABS                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-igt-server-v2            44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-igt-config-repo          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-igt-lambda-dabs-report-ge15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+DABS                     47 mins             ████████░░░░░░░░░░░░░░░░░   33.25 % 
+igt-server-v2            44 mins             ████████░░░░░░░░░░░░░░░░░   31.10 % 
+igt-config-repo          35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+igt-lambda-dabs-report-ge15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -200,7 +197,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 03:37:35 UTC
+ Last Updated on 24/07/2026 03:30:58 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
