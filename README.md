@@ -125,6 +125,10 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%207%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
@@ -212,7 +216,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 03:27:14 UTC
+ Last Updated on 30/07/2026 02:58:17 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
