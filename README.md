@@ -168,37 +168,40 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Markdown                 11 mins             █████████████████████████   100.00 % 
+Docker                   33 mins             ████████████████░░░░░░░░░   64.27 % 
+Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 
 🔥 Editors: 
-Claude Code              10 mins             ███████████████████████░░   92.01 % 
-VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Claude Code              35 mins             █████████████████░░░░░░░░   68.69 % 
+VS Code                  16 mins             ████████░░░░░░░░░░░░░░░░░   31.31 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            11 mins             █████████████████████████   100.00 % 
+igt-commons              34 mins             █████████████████░░░░░░░░   67.07 % 
+igt-server-v2            17 mins             ████████░░░░░░░░░░░░░░░░░   32.93 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (100.0%)
+⏱ AI Coding Time: 50 mins (97.04%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,637,193 Input Tokens, 10,851 Output Tokens
+🔤 3,920,789 Input Tokens, 19,759 Output Tokens
 
-💵 $13.46 Estimated AI Cost This Week
+💵 $20.10 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,869 characters per prompt
+📄 Detailed Prompter — average 1,014 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -216,7 +219,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 02:58:17 UTC
+ Last Updated on 31/07/2026 03:43:05 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
