@@ -168,41 +168,41 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Docker                   33 mins             ████████████████░░░░░░░░░   64.27 % 
-Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Docker                   33 mins             █████████████████████░░░░   82.95 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Claude Code              35 mins             █████████████████░░░░░░░░   68.69 % 
-VS Code                  16 mins             ████████░░░░░░░░░░░░░░░░░   31.31 % 
+Claude Code              24 mins             ███████████████░░░░░░░░░░   61.91 % 
+VS Code                  15 mins             ██████████░░░░░░░░░░░░░░░   38.09 % 
 
 🐱‍💻 Projects: 
-igt-commons              34 mins             █████████████████░░░░░░░░   67.07 % 
-igt-server-v2            17 mins             ████████░░░░░░░░░░░░░░░░░   32.93 % 
+igt-commons              34 mins             ██████████████████████░░░   86.56 % 
+igt-server-v2            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (97.04%)
+⏱ AI Coding Time: 38 mins (96.17%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,920,789 Input Tokens, 19,759 Output Tokens
+🔤 1,283,596 Input Tokens, 8,908 Output Tokens
 
-💵 $20.10 Estimated AI Cost This Week
+💵 $6.64 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,014 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 219 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -219,7 +219,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 03:42:22 UTC
+ Last Updated on 04/08/2026 03:25:07 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
