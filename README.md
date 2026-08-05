@@ -168,41 +168,45 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Docker                   33 mins             █████████████████████░░░░   82.95 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Docker                   33 mins             ██████████████████░░░░░░░   73.65 % 
+Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              24 mins             ███████████████░░░░░░░░░░   61.91 % 
-VS Code                  15 mins             ██████████░░░░░░░░░░░░░░░   38.09 % 
+Claude Code              25 mins             ██████████████░░░░░░░░░░░   55.55 % 
+VS Code                  20 mins             ███████████░░░░░░░░░░░░░░   44.45 % 
 
 🐱‍💻 Projects: 
-igt-commons              34 mins             ██████████████████████░░░   86.56 % 
-igt-server-v2            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+igt-commons              34 mins             ███████████████████░░░░░░   76.86 % 
+igt-server-v2            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+IGS_lambda_implementation5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (96.17%)
+⏱ AI Coding Time: 39 mins (86.88%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,283,596 Input Tokens, 8,908 Output Tokens
+🔤 1,425,437 Input Tokens, 9,790 Output Tokens
 
-💵 $6.64 Estimated AI Cost This Week
+💵 $7.30 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 3 AI Sessions, 30 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 219 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -219,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 03:25:07 UTC
+ Last Updated on 05/08/2026 03:21:00 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
