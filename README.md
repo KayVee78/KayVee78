@@ -125,9 +125,9 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,46 +168,48 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Docker                   33 mins             ██████████████████░░░░░░░   73.65 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    48 mins             ███████████░░░░░░░░░░░░░░   44.02 % 
+Docker                   41 mins             ██████████░░░░░░░░░░░░░░░   38.14 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-Claude Code              25 mins             ██████████████░░░░░░░░░░░   55.55 % 
-VS Code                  20 mins             ███████████░░░░░░░░░░░░░░   44.45 % 
+Claude Code              1 hr 17 mins        ██████████████████░░░░░░░   71.00 % 
+VS Code                  31 mins             ███████░░░░░░░░░░░░░░░░░░   29.00 % 
 
 🐱‍💻 Projects: 
-igt-commons              34 mins             ███████████████████░░░░░░   76.86 % 
-igt-server-v2            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-IGS_lambda_implementation5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+igt-commons              34 mins             ████████░░░░░░░░░░░░░░░░░   31.83 % 
+DABS                     32 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
+igt-lambda-dabs-report-ge31 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+igt-server-v2            5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+IGS_lambda_implementation5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (86.88%)
+⏱ AI Coding Time: 1 hr 35 mins (87.28%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 961 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,425,437 Input Tokens, 9,790 Output Tokens
+🔤 2,639,892 Input Tokens, 13,326 Output Tokens
 
-💵 $7.30 Estimated AI Cost This Week
+💵 $13.46 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 30 AI Prompts
+🧠 5 AI Sessions, 36 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     963 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 146 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 03:21:00 UTC
+ Last Updated on 06/08/2026 03:25:52 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
