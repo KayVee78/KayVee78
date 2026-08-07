@@ -125,10 +125,6 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2032%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2046%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
@@ -141,77 +137,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2656 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-🌆 Daytime                3477 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-🌃 Evening                6342 commits        ████████████░░░░░░░░░░░░░   46.05 % 
-🌙 Night                  1296 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   2355 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Tuesday                  916 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Wednesday                2744 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Thursday                 1130 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Friday                   975 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Saturday                 1972 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Sunday                   3679 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-Other                    48 mins             ███████████░░░░░░░░░░░░░░   44.02 % 
-Docker                   41 mins             ██████████░░░░░░░░░░░░░░░   38.14 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-
-🔥 Editors: 
-Claude Code              1 hr 17 mins        ██████████████████░░░░░░░   71.00 % 
-VS Code                  31 mins             ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-
-🐱‍💻 Projects: 
-igt-commons              34 mins             ████████░░░░░░░░░░░░░░░░░   31.83 % 
-DABS                     32 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
-igt-lambda-dabs-report-ge31 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-igt-server-v2            5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-IGS_lambda_implementation5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-
-💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 35 mins (87.28%)
-
-✍️ 961 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,639,892 Input Tokens, 13,326 Output Tokens
-
-💵 $13.46 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 36 AI Prompts
-
-Opus                     963 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -225,7 +150,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 03:25:52 UTC
+ Last Updated on 07/08/2026 03:04:12 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
