@@ -125,9 +125,9 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,31 +168,31 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Terraform                1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.73 % 
-Markdown                 1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.51 % 
+Terraform                1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.75 % 
+Markdown                 1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.48 % 
 JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 HCL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 20 mins       █████████████░░░░░░░░░░░░   52.80 % 
-VS Code                  2 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.20 % 
+Claude Code              2 hrs 20 mins       █████████████░░░░░░░░░░░░   52.82 % 
+VS Code                  2 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.18 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            3 hrs 37 mins       ████████████████████░░░░░   81.74 % 
-igt-auth-service         17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+igt-server-v2            3 hrs 37 mins       ████████████████████░░░░░   81.79 % 
+igt-auth-service         17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 igt-analytics-api        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 igt-core-api             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 igt-lambda-ailytics-webho3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 15 mins (73.59%)
+⏱ AI Coding Time: 3 hrs 15 mins (73.63%)
 
 ✍️ 7,012 lines written by AI, 232 lines written by hand (96.8% AI-written)
 
@@ -208,7 +208,7 @@ Opus                     7,128 lines         ███████████�
 🤖 AI-Driven — 96.8% of written lines came from AI
 📄 Detailed Prompter — average 778 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 3.66% of changed lines were hand-edited
+🚀 High AI Trust — 3.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 01:45:10 UTC
+ Last Updated on 16/08/2026 01:50:35 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
