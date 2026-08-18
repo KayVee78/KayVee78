@@ -125,7 +125,7 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%206%20mins-blue?style=flat)
 
@@ -168,47 +168,47 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Terraform                1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.87 % 
-Markdown                 1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.33 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-HCL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Terraform                4 hrs 28 mins       █████████████░░░░░░░░░░░░   53.98 % 
+Markdown                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+HCL                      1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 20 mins       █████████████░░░░░░░░░░░░   52.60 % 
-VS Code                  2 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.40 % 
+VS Code                  5 hrs               ███████████████░░░░░░░░░░   60.39 % 
+Claude Code              3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            3 hrs 38 mins       ████████████████████░░░░░   81.86 % 
-igt-auth-service         17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-igt-analytics-api        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-igt-core-api             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-igt-lambda-ailytics-webho3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+igt-server-v2            7 hrs 45 mins       ███████████████████████░░   93.77 % 
+ailytics-ht-connector    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+igt-analytics-api        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+igt-lambda-ailytics-webho3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 15 mins (73.31%)
+⏱ AI Coding Time: 4 hrs 26 mins (53.61%)
 
-✍️ 7,012 lines written by AI, 232 lines written by hand (96.8% AI-written)
+✍️ 7,012 lines written by AI, 284 lines written by hand (96.11% AI-written)
 
-🔤 705,170 Input Tokens, 128,005 Output Tokens
+🔤 1,157,370 Input Tokens, 156,323 Output Tokens
 
-💵 $22.82 Estimated AI Cost This Week
+💵 $30.63 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 35 AI Prompts
+🧠 5 AI Sessions, 50 AI Prompts
 
 Opus                     7,128 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.8% of written lines came from AI
-📄 Detailed Prompter — average 778 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 3.65% of changed lines were hand-edited
+🤖 AI-Driven — 96.11% of written lines came from AI
+📄 Detailed Prompter — average 650 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 11.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 01:50:12 UTC
+ Last Updated on 18/08/2026 01:44:05 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
