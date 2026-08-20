@@ -125,9 +125,9 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,31 +168,32 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Terraform                8 hrs 9 mins        ███████████████░░░░░░░░░░   60.64 % 
-Markdown                 2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-HCL                      2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Terraform                8 hrs 9 mins        ███████████████░░░░░░░░░░   58.27 % 
+Markdown                 2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+HCL                      2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 37 mins       ██████████████░░░░░░░░░░░   56.70 % 
-Claude Code              5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
+VS Code                  8 hrs 10 mins       ███████████████░░░░░░░░░░   58.39 % 
+Claude Code              5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            13 hrs 12 mins      █████████████████████████   98.07 % 
-ailytics-ht-connector    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+igt-server-v2            13 hrs 12 mins      ████████████████████████░   94.24 % 
+ig-config-repo           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+ailytics-ht-connector    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+igt-config-repo          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Windows                  13 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 7 mins (60.31%)
+⏱ AI Coding Time: 8 hrs 7 mins (57.95%)
 
-✍️ 9,072 lines written by AI, 678 lines written by hand (93.05% AI-written)
+✍️ 9,072 lines written by AI, 690 lines written by hand (92.93% AI-written)
 
 🔤 1,470,689 Input Tokens, 279,452 Output Tokens
 
@@ -203,10 +204,10 @@ Windows                  13 hrs 27 mins      ███████████�
 Opus                     10,961 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.05% of written lines came from AI
+🤖 AI-Driven — 92.93% of written lines came from AI
 📄 Detailed Prompter — average 889 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 13.18% of changed lines were hand-edited
+🚀 High AI Trust — 13.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -222,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 01:46:41 UTC
+ Last Updated on 20/08/2026 01:44:16 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
