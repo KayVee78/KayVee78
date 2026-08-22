@@ -168,46 +168,46 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Terraform                8 hrs 9 mins        ███████████████░░░░░░░░░░   58.27 % 
-Markdown                 2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-HCL                      2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Terraform                6 hrs 18 mins       ███████████████░░░░░░░░░░   60.79 % 
+HCL                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       ███████████████░░░░░░░░░░   58.39 % 
-Claude Code              5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
+VS Code                  6 hrs 48 mins       ████████████████░░░░░░░░░   65.54 % 
+Claude Code              3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            13 hrs 12 mins      ████████████████████████░   94.24 % 
-ig-config-repo           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-ailytics-ht-connector    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-igt-config-repo          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+igt-server-v2            9 hrs 34 mins       ███████████████████████░░   92.23 % 
+ig-config-repo           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+ailytics-ht-connector    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+igt-config-repo          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Windows                  14 hrs              █████████████████████████   100.00 % 
+Windows                  10 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 7 mins (57.95%)
+⏱ AI Coding Time: 4 hrs 57 mins (47.81%)
 
-✍️ 9,072 lines written by AI, 690 lines written by hand (92.93% AI-written)
+✍️ 2,060 lines written by AI, 682 lines written by hand (75.13% AI-written)
 
-🔤 1,470,689 Input Tokens, 279,452 Output Tokens
+🔤 775,605 Input Tokens, 152,761 Output Tokens
 
-💵 $56.15 Estimated AI Cost This Week
+💵 $33.48 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 68 AI Prompts
+🧠 4 AI Sessions, 36 AI Prompts
 
-Opus                     10,961 lines        █████████████████████████   100.00 % 
+Opus                     3,833 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.93% of written lines came from AI
-📄 Detailed Prompter — average 889 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 13.26% of changed lines were hand-edited
+🤖 AI-Driven — 75.13% of written lines came from AI
+📄 Detailed Prompter — average 943 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 29.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 01:49:46 UTC
+ Last Updated on 22/08/2026 01:42:47 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
