@@ -125,9 +125,9 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,47 +168,47 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Terraform                3 hrs 41 mins       ██████████████░░░░░░░░░░░   55.15 % 
-Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-HCL                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+YAML                     54 mins             ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Other                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Text                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████░░░░░░░░░░░░   50.85 % 
-Claude Code              3 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.15 % 
+Claude Code              1 hr 44 mins        ███████████████░░░░░░░░░░   60.36 % 
+VS Code                  1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   39.64 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            5 hrs 26 mins       ████████████████████░░░░░   81.20 % 
-ig-config-repo           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-DABS-COGNITO             25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-igt-config-repo          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-igt-auth-service         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+igt-dabs-web-app         31 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+DABS                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+igt-config-repo          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+ig-config-repo           25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+DABS-COGNITO             25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 
 💻 Operating System: 
-Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 26 mins (66.45%)
+⏱ AI Coding Time: 1 hr 44 mins (60.7%)
 
-✍️ 4,269 lines written by AI, 406 lines written by hand (91.32% AI-written)
+✍️ 7,780 lines written by AI, 33 lines written by hand (99.58% AI-written)
 
-🔤 480,612 Input Tokens, 175,535 Output Tokens
+🔤 441,807 Input Tokens, 68,768 Output Tokens
 
-💵 $33.16 Estimated AI Cost This Week
+💵 $11.48 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 26 AI Prompts
+🧠 4 AI Sessions, 20 AI Prompts
 
-Opus                     6,042 lines         █████████████████████████   100.00 % 
+Opus                     7,780 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.32% of written lines came from AI
-📄 Detailed Prompter — average 1,142 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 10.83% of changed lines were hand-edited
+🤖 AI-Driven — 99.58% of written lines came from AI
+📄 Detailed Prompter — average 1,124 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 01:44:52 UTC
+ Last Updated on 26/08/2026 01:50:24 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
