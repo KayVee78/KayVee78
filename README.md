@@ -125,9 +125,9 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%209%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,47 +168,48 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 53 mins       ███████████████████░░░░░░   76.01 % 
-JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Markdown                 3 hrs 40 mins       █████████████████░░░░░░░░   69.95 % 
+JavaScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 22 mins       ██████████████████████░░░   89.00 % 
-VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Claude Code              4 hrs 51 mins       ███████████████████████░░   92.33 % 
+VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🐱‍💻 Projects: 
-DABS-COGNITO             2 hrs 15 mins       ███████████████░░░░░░░░░░   59.53 % 
-Kafka                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-igt-lambda-dabs-onboardin11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-igt-lambda-dabs-pretoken-10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-igt-cognito-auth         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+DABS-COGNITO             2 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.92 % 
+Kafka                    1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+igt-smart-display-portal 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+SVAT                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+igt-lambda-dabs-pretoken-10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (99.44%)
+⏱ AI Coding Time: 5 hrs 14 mins (99.65%)
 
-✍️ 1,204 lines written by AI, 2 lines written by hand (99.83% AI-written)
+✍️ 741 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 361,475 Input Tokens, 188,849 Output Tokens
+🔤 965,005 Input Tokens, 275,991 Output Tokens
 
-💵 $15.88 Estimated AI Cost This Week
+💵 $23.03 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 79 AI Prompts
+🧠 13 AI Sessions, 121 AI Prompts
 
-Opus                     1,262 lines         █████████████████████████   100.00 % 
+Opus                     803 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📝 Concise Prompter — average 177 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.71% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 518 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 04:36:36 UTC
+ Last Updated on 16/09/2026 04:32:49 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
