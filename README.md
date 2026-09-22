@@ -168,49 +168,49 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-YAML                     2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
-Other                    1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+YAML                     4 hrs 27 mins       ██████████████░░░░░░░░░░░   55.61 % 
+Other                    1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 2 mins        ███████████████████░░░░░░   75.29 % 
-VS Code                  1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Claude Code              5 hrs 44 mins       ██████████████████░░░░░░░   71.49 % 
+VS Code                  2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
 
 🐱‍💻 Projects: 
-DABS-COGNITO             5 hrs 40 mins       █████████████████████░░░░   84.72 % 
-igt-smart-display-portal 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-SVAT                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-igt-lambda-dabs-pretoken-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-igt-config-repo          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+DABS-COGNITO             6 hrs 53 mins       █████████████████████░░░░   85.85 % 
+igt-smart-display-portal 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+SVAT                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+igt-config-repo          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+igt-lambda-dabs-pretoken-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  6 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (85.91%)
+⏱ AI Coding Time: 6 hrs 52 mins (85.56%)
 
-✍️ 1,326 lines written by AI, 139 lines written by hand (90.51% AI-written)
+✍️ 1,325 lines written by AI, 220 lines written by hand (85.76% AI-written)
 
-🔤 2,639,361 Input Tokens, 174,235 Output Tokens
+🔤 2,768,029 Input Tokens, 200,954 Output Tokens
 
-💵 $28.47 Estimated AI Cost This Week
+💵 $30.59 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 109 AI Prompts
+🧠 11 AI Sessions, 110 AI Prompts
 
-Github-Copilot           967 lines           ██████████████████░░░░░░░   72.71 % 
-Opus                     363 lines           ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Github-Copilot           967 lines           ██████████████████░░░░░░░   72.76 % 
+Opus                     362 lines           ███████░░░░░░░░░░░░░░░░░░   27.24 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.51% of written lines came from AI
-📄 Detailed Prompter — average 510 characters per prompt
+🤖 AI-Driven — 85.76% of written lines came from AI
+📄 Detailed Prompter — average 618 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 10.92% of changed lines were hand-edited
+🚀 High AI Trust — 22.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -226,7 +226,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 04:36:05 UTC
+ Last Updated on 22/09/2026 04:32:12 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
