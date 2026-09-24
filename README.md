@@ -125,9 +125,9 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,49 +168,49 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-YAML                     4 hrs 52 mins       ███████████████░░░░░░░░░░   59.90 % 
-Other                    1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+YAML                     4 hrs 56 mins       ███████████████░░░░░░░░░░   58.28 % 
+Other                    1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 44 mins       ██████████████████░░░░░░░   70.66 % 
-VS Code                  2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Claude Code              6 hrs 2 mins        ██████████████████░░░░░░░   71.24 % 
+VS Code                  2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
 
 🐱‍💻 Projects: 
-DABS-COGNITO             7 hrs 24 mins       ███████████████████████░░   91.27 % 
-igt-cognito-auth         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-igt-config-repo          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-igt-lambda-dabs-pretoken-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-SVAT                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+DABS-COGNITO             7 hrs 29 mins       ██████████████████████░░░   88.32 % 
+igt-smart-display-portal 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+igt-cognito-auth         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+igt-config-repo          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+igt-lambda-dabs-pretoken-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Windows                  8 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 55 mins (85.15%)
+⏱ AI Coding Time: 7 hrs 14 mins (85.44%)
 
-✍️ 1,527 lines written by AI, 248 lines written by hand (86.03% AI-written)
+✍️ 1,448 lines written by AI, 250 lines written by hand (85.28% AI-written)
 
-🔤 3,064,240 Input Tokens, 227,798 Output Tokens
+🔤 3,371,704 Input Tokens, 240,791 Output Tokens
 
-💵 $34.13 Estimated AI Cost This Week
+💵 $37.20 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 121 AI Prompts
+🧠 13 AI Sessions, 126 AI Prompts
 
-Github-Copilot           967 lines           ████████████████░░░░░░░░░   63.33 % 
-Opus                     560 lines           █████████░░░░░░░░░░░░░░░░   36.67 % 
+Github-Copilot           967 lines           █████████████████░░░░░░░░   66.78 % 
+Opus                     481 lines           ████████░░░░░░░░░░░░░░░░░   33.22 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.03% of written lines came from AI
-📄 Detailed Prompter — average 943 characters per prompt
+🤖 AI-Driven — 85.28% of written lines came from AI
+📄 Detailed Prompter — average 850 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 20.92% of changed lines were hand-edited
+🚀 High AI Trust — 21.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -226,7 +226,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 04:29:04 UTC
+ Last Updated on 24/09/2026 04:25:47 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
