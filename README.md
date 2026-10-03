@@ -127,7 +127,7 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,46 +168,46 @@ Sunday                   3679 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Python                   52 mins             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-JavaScript               48 mins             ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Other                    44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-YAML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Python                   52 mins             █████████░░░░░░░░░░░░░░░░   34.55 % 
+JavaScript               48 mins             ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Other                    41 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 28 mins       █████████████████████░░░░   85.55 % 
-VS Code                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Claude Code              2 hrs 19 mins       ███████████████████████░░   91.33 % 
+VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 🐱‍💻 Projects: 
-AILYTICS                 1 hr 37 mins        ██████████████░░░░░░░░░░░   56.10 % 
-ailytics-ht-connector    48 mins             ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-igt-lambda-dabs-cad-conve18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-ig-notification-api      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-igt-smart-display-portal 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+AILYTICS                 1 hr 37 mins        ████████████████░░░░░░░░░   63.68 % 
+ailytics-ht-connector    48 mins             ████████░░░░░░░░░░░░░░░░░   31.55 % 
+ig-notification-api      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+SVAT                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Notification             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (85.94%)
+⏱ AI Coding Time: 2 hrs 19 mins (91.54%)
 
-✍️ 143 lines written by AI, 43 lines written by hand (76.88% AI-written)
+✍️ 143 lines written by AI, 2 lines written by hand (98.62% AI-written)
 
-🔤 839,410 Input Tokens, 58,305 Output Tokens
+🔤 817,316 Input Tokens, 50,774 Output Tokens
 
-💵 $6.48 Estimated AI Cost This Week
+💵 $6.14 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 26 AI Prompts
+🧠 6 AI Sessions, 20 AI Prompts
 
 Opus                     143 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.88% of written lines came from AI
-📄 Detailed Prompter — average 1,345 characters per prompt
+🤖 AI-Driven — 98.62% of written lines came from AI
+📚 Verbose Prompter — average 1,711 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 32.86% of changed lines were hand-edited
+🚀 High AI Trust — 16.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 05:18:44 UTC
+ Last Updated on 03/10/2026 05:00:43 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
