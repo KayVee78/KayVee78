@@ -146,19 +146,19 @@
 ```text
 🌞 Morning                2653 commits        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
 🌆 Daytime                3477 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-🌃 Evening                6343 commits        ████████████░░░░░░░░░░░░░   46.07 % 
-🌙 Night                  1296 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+🌃 Evening                6344 commits        ████████████░░░░░░░░░░░░░   46.07 % 
+🌙 Night                  1297 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   2355 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Tuesday                  916 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Tuesday                  917 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 Wednesday                2744 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 Thursday                 1130 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 Friday                   975 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 Saturday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Sunday                   3680 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Sunday                   3681 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 ```
 
 
@@ -168,21 +168,21 @@ Sunday                   3680 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Python                   52 mins             █████████░░░░░░░░░░░░░░░░   34.44 % 
-JavaScript               48 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
-Other                    41 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Python                   52 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
+JavaScript               48 mins             ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 19 mins       ███████████████████████░░   91.05 % 
-VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Claude Code              1 hr 54 mins        ███████████████████░░░░░░   74.35 % 
+VS Code                  39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
 
 🐱‍💻 Projects: 
-AILYTICS                 1 hr 37 mins        ████████████████░░░░░░░░░   63.49 % 
-ailytics-ht-connector    48 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
-ig-notification-api      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-SVAT                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+AILYTICS                 1 hr 8 mins         ███████████░░░░░░░░░░░░░░   44.52 % 
+ailytics-ht-connector    48 mins             ████████░░░░░░░░░░░░░░░░░   31.33 % 
+igt-server-v2            30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+ig-notification-api      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 Notification             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
@@ -192,23 +192,23 @@ Windows                  2 hrs 33 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (91.26%)
+⏱ AI Coding Time: 1 hr 55 mins (74.84%)
 
-✍️ 143 lines written by AI, 16 lines written by hand (89.94% AI-written)
+✍️ 143 lines written by AI, 21 lines written by hand (87.2% AI-written)
 
-🔤 817,316 Input Tokens, 50,774 Output Tokens
+🔤 401,881 Input Tokens, 57,592 Output Tokens
 
-💵 $6.14 Estimated AI Cost This Week
+💵 $4.37 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 20 AI Prompts
+🧠 5 AI Sessions, 16 AI Prompts
 
 Opus                     143 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.94% of written lines came from AI
-📚 Verbose Prompter — average 1,711 characters per prompt
+🤖 AI-Driven — 87.2% of written lines came from AI
+📄 Detailed Prompter — average 1,070 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 23.12% of changed lines were hand-edited
+🚀 High AI Trust — 27.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 05:18:41 UTC
+ Last Updated on 06/10/2026 06:03:37 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
