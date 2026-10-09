@@ -125,15 +125,13 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2038%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
- > 
-> 🏆 435 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,21 +142,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2653 commits        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-🌆 Daytime                3477 commits        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-🌃 Evening                6367 commits        ████████████░░░░░░░░░░░░░   46.14 % 
-🌙 Night                  1302 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+🌞 Morning                2653 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌆 Daytime                3477 commits        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+🌃 Evening                6378 commits        ████████████░░░░░░░░░░░░░   46.17 % 
+🌙 Night                  1305 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2355 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Tuesday                  929 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Wednesday                2756 commits        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Thursday                 1131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Friday                   975 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Saturday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Sunday                   3684 commits        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+Monday                   2355 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Tuesday                  932 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Wednesday                2760 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Thursday                 1136 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Friday                   976 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Saturday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Sunday                   3685 commits        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
 ```
 
 
@@ -168,48 +166,48 @@ Sunday                   3684 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Bash                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Other                    1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+HCL                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🔥 Editors: 
-Claude Code              1 hr 43 mins        ███████████████░░░░░░░░░░   61.16 % 
-VS Code                  1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   38.84 % 
+Claude Code              2 hrs 19 mins       ███████████████░░░░░░░░░░   60.46 % 
+VS Code                  1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   39.54 % 
 
 🐱‍💻 Projects: 
-igt-server-v2            42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-AILYTICS                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-ig-analytics-api         34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-drift                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-fyp                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+AILYTICS                 55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+igt-server-v2            54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+ig-analytics-api         34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+fyp                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Badge Printing           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 54 mins (68.17%)
+⏱ AI Coding Time: 2 hrs 31 mins (65.44%)
 
-✍️ 237 lines written by AI, 23 lines written by hand (91.15% AI-written)
+✍️ 237 lines written by AI, 28 lines written by hand (89.43% AI-written)
 
-🔤 1,655,920 Input Tokens, 108,021 Output Tokens
+🔤 1,322,972 Input Tokens, 119,989 Output Tokens
 
-💵 $12.37 Estimated AI Cost This Week
+💵 $11.27 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 33 AI Prompts
+🧠 9 AI Sessions, 41 AI Prompts
 
 Opus                     237 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.15% of written lines came from AI
-📄 Detailed Prompter — average 726 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.57% of changed lines were hand-edited
+🤖 AI-Driven — 89.43% of written lines came from AI
+📝 Concise Prompter — average 454 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 14.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -225,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 05:44:35 UTC
+ Last Updated on 09/10/2026 05:50:41 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
