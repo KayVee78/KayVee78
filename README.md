@@ -125,13 +125,15 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2021%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 440 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,33 +168,33 @@ Sunday                   3685 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.31 % 
-Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-HCL                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Other                    1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   31.59 % 
+Markdown                 54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+HCL                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 19 mins       ███████████████░░░░░░░░░░   60.46 % 
-VS Code                  1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   39.54 % 
+Claude Code              2 hrs 19 mins       ██████████████░░░░░░░░░░░   57.34 % 
+VS Code                  1 hr 43 mins        ███████████░░░░░░░░░░░░░░   42.66 % 
 
 🐱‍💻 Projects: 
-AILYTICS                 55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-igt-server-v2            54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-ig-analytics-api         34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-fyp                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Badge Printing           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+AILYTICS                 55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+igt-server-v2            54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+fyp                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+ig-analytics-api         34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Badge Printing           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (65.44%)
+⏱ AI Coding Time: 2 hrs 31 mins (62.06%)
 
-✍️ 237 lines written by AI, 28 lines written by hand (89.43% AI-written)
+✍️ 237 lines written by AI, 31 lines written by hand (88.43% AI-written)
 
 🔤 1,322,972 Input Tokens, 119,989 Output Tokens
 
@@ -204,10 +206,10 @@ Opus                     237 lines           ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.43% of written lines came from AI
+🤖 AI-Driven — 88.43% of written lines came from AI
 📝 Concise Prompter — average 454 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 14.75% of changed lines were hand-edited
+🚀 High AI Trust — 19.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 05:50:41 UTC
+ Last Updated on 10/10/2026 05:31:40 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
