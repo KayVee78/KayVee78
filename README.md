@@ -168,48 +168,47 @@ Sunday                   3685 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   31.65 % 
-Markdown                 54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-HCL                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Other                    2 hrs 17 mins       █████████████░░░░░░░░░░░░   53.28 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+HCL                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 19 mins       ██████████████░░░░░░░░░░░   57.45 % 
-VS Code                  1 hr 43 mins        ███████████░░░░░░░░░░░░░░   42.55 % 
+Claude Code              3 hrs 1 min         ██████████████████░░░░░░░   70.13 % 
+VS Code                  1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
 
 🐱‍💻 Projects: 
-AILYTICS                 55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-igt-server-v2            54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-fyp                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-ig-analytics-api         34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Badge Printing           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+AILYTICS                 1 hr 56 mins        ███████████░░░░░░░░░░░░░░   45.09 % 
+ig-analytics-api         34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Badge Printing           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+fyp                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+igt-server-v2            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 
 💻 Operating System: 
-Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (62.18%)
+⏱ AI Coding Time: 3 hrs 11 mins (74.21%)
 
-✍️ 237 lines written by AI, 17 lines written by hand (93.31% AI-written)
+✍️ 237 lines written by AI, 12 lines written by hand (95.18% AI-written)
 
-🔤 1,322,972 Input Tokens, 119,989 Output Tokens
+🔤 1,638,612 Input Tokens, 126,036 Output Tokens
 
-💵 $11.27 Estimated AI Cost This Week
+💵 $14.08 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 41 AI Prompts
+🧠 9 AI Sessions, 48 AI Prompts
 
 Opus                     237 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.31% of written lines came from AI
-📝 Concise Prompter — average 454 characters per prompt
+🤖 AI-Driven — 95.18% of written lines came from AI
+📝 Concise Prompter — average 396 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 15.05% of changed lines were hand-edited
+🚀 High AI Trust — 11.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -225,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 05:37:12 UTC
+ Last Updated on 13/10/2026 06:36:37 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
