@@ -127,7 +127,7 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,47 +168,47 @@ Sunday                   3685 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    2 hrs 17 mins       █████████████░░░░░░░░░░░░   53.28 % 
-Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-HCL                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Other                    4 hrs 2 mins        █████████████████░░░░░░░░   69.47 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+HCL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 1 min         ██████████████████░░░░░░░   70.13 % 
-VS Code                  1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Claude Code              4 hrs 40 mins       ████████████████████░░░░░   80.29 % 
+VS Code                  1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 
 🐱‍💻 Projects: 
-AILYTICS                 1 hr 56 mins        ███████████░░░░░░░░░░░░░░   45.09 % 
-ig-analytics-api         34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Badge Printing           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-fyp                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-igt-server-v2            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+AILYTICS                 3 hrs               █████████████░░░░░░░░░░░░   51.81 % 
+igt-lambda-ailytics-webho52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+ig-analytics-api         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Badge Printing           28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+fyp                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (74.21%)
+⏱ AI Coding Time: 4 hrs 53 mins (84.08%)
 
-✍️ 237 lines written by AI, 12 lines written by hand (95.18% AI-written)
+✍️ 205 lines written by AI, 8 lines written by hand (96.24% AI-written)
 
-🔤 1,638,612 Input Tokens, 126,036 Output Tokens
+🔤 2,337,968 Input Tokens, 129,420 Output Tokens
 
-💵 $14.08 Estimated AI Cost This Week
+💵 $19.31 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 48 AI Prompts
+🧠 10 AI Sessions, 58 AI Prompts
 
-Opus                     237 lines           █████████████████████████   100.00 % 
+Opus                     205 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.18% of written lines came from AI
-📝 Concise Prompter — average 396 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.9% of changed lines were hand-edited
+🤖 AI-Driven — 96.24% of written lines came from AI
+📝 Concise Prompter — average 253 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 10.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 06:36:37 UTC
+ Last Updated on 14/10/2026 04:36:36 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
