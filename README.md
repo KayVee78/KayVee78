@@ -127,7 +127,7 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,45 +168,45 @@ Sunday                   3685 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    3 hrs 58 mins       █████████████████████░░░░   82.48 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-HCL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    3 hrs 16 mins       █████████████████████░░░░   85.95 % 
+YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 58 mins       █████████████████████░░░░   82.48 % 
-VS Code                  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Claude Code              3 hrs 16 mins       ██████████████████████░░░   86.24 % 
+VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 
 🐱‍💻 Projects: 
-AILYTICS                 2 hrs 49 mins       ███████████████░░░░░░░░░░   58.67 % 
-igt-lambda-ailytics-webho52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Badge Printing           28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-fyp                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-igt-server-v2            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+AILYTICS                 2 hrs 35 mins       █████████████████░░░░░░░░   68.20 % 
+igt-lambda-ailytics-webho52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+fyp                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+igt-lambda-dabs-cad-conve5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+igt-lambda-dabs-report-ge1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 1 min (83.4%)
+⏱ AI Coding Time: 3 hrs 19 mins (87.48%)
 
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 83 lines written by hand (0.0% AI-written)
 
-🔤 2,781,831 Input Tokens, 100,209 Output Tokens
+🔤 2,723,144 Input Tokens, 77,994 Output Tokens
 
-💵 $17.49 Estimated AI Cost This Week
+💵 $16.48 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 54 AI Prompts
+🧠 9 AI Sessions, 40 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 181 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 144 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -223,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 04:17:42 UTC
+ Last Updated on 16/10/2026 04:15:40 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
