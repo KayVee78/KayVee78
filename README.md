@@ -133,7 +133,7 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 440 Contributions in the Year 2026
+> 🏆 443 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,21 +144,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2653 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-🌆 Daytime                3477 commits        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌃 Evening                6378 commits        ████████████░░░░░░░░░░░░░   46.17 % 
-🌙 Night                  1305 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+🌞 Morning                2653 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+🌆 Daytime                3477 commits        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+🌃 Evening                6391 commits        ████████████░░░░░░░░░░░░░   46.21 % 
+🌙 Night                  1308 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2355 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Tuesday                  932 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Wednesday                2760 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Thursday                 1136 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Friday                   976 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Saturday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Sunday                   3685 commits        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Monday                   2358 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Tuesday                  935 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Wednesday                2764 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Thursday                 1140 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Friday                   977 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Saturday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Sunday                   3686 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
 ```
 
 
@@ -168,47 +168,47 @@ Sunday                   3685 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    3 hrs 58 mins       ████████████████████░░░░░   79.62 % 
-YAML                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    2 hrs 54 mins       ██████████████████░░░░░░░   72.64 % 
+YAML                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Docker                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 32 mins       ███████████████████████░░   90.91 % 
-VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Claude Code              3 hrs 28 mins       ██████████████████████░░░   86.75 % 
+VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 
 🐱‍💻 Projects: 
-AILYTICS                 2 hrs 59 mins       ███████████████░░░░░░░░░░   59.99 % 
-igt-lambda-ailytics-webho52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-uat                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-ig-server-v2             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-ailytics-ht-connector    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+AILYTICS                 1 hr 38 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
+igt-lambda-ailytics-webho52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+uat                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+ig-server-v2             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+IGS - UAT                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 💻 Operating System: 
-Windows                  4 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 35 mins (91.87%)
+⏱ AI Coding Time: 3 hrs 31 mins (87.95%)
 
-✍️ 446 lines written by AI, 134 lines written by hand (76.9% AI-written)
+✍️ 446 lines written by AI, 200 lines written by hand (69.04% AI-written)
 
-🔤 5,468,130 Input Tokens, 119,581 Output Tokens
+🔤 4,316,461 Input Tokens, 93,120 Output Tokens
 
-💵 $33.82 Estimated AI Cost This Week
+💵 $26.38 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 55 AI Prompts
+🧠 12 AI Sessions, 36 AI Prompts
 
 Opus                     446 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.9% of written lines came from AI
+🤖 AI-Driven — 69.04% of written lines came from AI
 📝 Concise Prompter — average 139 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 23.24% of changed lines were hand-edited
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 31.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 04:21:58 UTC
+ Last Updated on 20/10/2026 04:32:04 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
