@@ -168,47 +168,47 @@ Sunday                   3686 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.54 % 
-YAML                     1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   34.25 % 
-Other                    53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript               2 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.38 % 
+YAML                     1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Other                    53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 48 mins       █████████████████░░░░░░░░   69.35 % 
-VS Code                  1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   30.65 % 
+Claude Code              3 hrs 15 mins       █████████████████░░░░░░░░   67.82 % 
+VS Code                  1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   32.18 % 
 
 🐱‍💻 Projects: 
-ig-auth-service          2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.40 % 
-ig-config-repo           1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-IGS - UAT                53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-uat                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-ig-lambda-notification-pr12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+ig-auth-service          2 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.24 % 
+ig-config-repo           1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+IGS - UAT                53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+ig-lambda-notification-pr12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+ig-analytics-api         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 49 mins (69.61%)
+⏱ AI Coding Time: 3 hrs 16 mins (68.12%)
 
-✍️ 446 lines written by AI, 555 lines written by hand (44.56% AI-written)
+✍️ 0 lines written by AI, 501 lines written by hand (0.0% AI-written)
 
-🔤 3,078,997 Input Tokens, 112,804 Output Tokens
+🔤 1,157,791 Input Tokens, 93,799 Output Tokens
 
-💵 $21.65 Estimated AI Cost This Week
+💵 $11.03 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 59 AI Prompts
+🧠 13 AI Sessions, 55 AI Prompts
 
-Opus                     446 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.56% of written lines came from AI
-📄 Detailed Prompter — average 564 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 587 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 72.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 04:26:53 UTC
+ Last Updated on 24/10/2026 04:17:41 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
