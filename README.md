@@ -125,9 +125,9 @@
   <h3>⏱️ This Week I Spent My Time On</h3>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2010%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -144,21 +144,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2653 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-🌆 Daytime                3477 commits        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌃 Evening                6391 commits        ████████████░░░░░░░░░░░░░   46.21 % 
-🌙 Night                  1308 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌞 Morning                2653 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+🌆 Daytime                3477 commits        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+🌃 Evening                6403 commits        ████████████░░░░░░░░░░░░░   46.25 % 
+🌙 Night                  1311 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2358 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Tuesday                  935 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Wednesday                2764 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Thursday                 1140 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Friday                   977 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Saturday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Sunday                   3686 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Monday                   2360 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Tuesday                  938 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Wednesday                2768 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Thursday                 1144 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Friday                   978 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Saturday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Sunday                   3687 commits        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
 ```
 
 
@@ -168,48 +168,48 @@ Sunday                   3686 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    2 hrs 55 mins       ████████████░░░░░░░░░░░░░   46.49 % 
-HTML                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-YAML                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Other                    3 hrs               ████████░░░░░░░░░░░░░░░░░   32.64 % 
+HTML                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+YAML                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Python                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+JavaScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 18 mins       █████████████████████░░░░   84.48 % 
-VS Code                  58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Claude Code              8 hrs 10 mins       ██████████████████████░░░   88.71 % 
+VS Code                  1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 🐱‍💻 Projects: 
-IGS - UAT                1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-ig-atlas-search-connector1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Research                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-ig-auth-service          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-PP                       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Research                 2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+PP                       1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+IGS - UAT                1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+ig-atlas-search-connector1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+ig-auth-service          41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 💻 Operating System: 
-Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 34 mins (88.83%)
+⏱ AI Coding Time: 8 hrs 31 mins (92.39%)
 
-✍️ 2,092 lines written by AI, 46 lines written by hand (97.85% AI-written)
+✍️ 4,496 lines written by AI, 46 lines written by hand (98.99% AI-written)
 
-🔤 2,489,793 Input Tokens, 325,736 Output Tokens
+🔤 3,498,310 Input Tokens, 642,512 Output Tokens
 
-💵 $24.98 Estimated AI Cost This Week
+💵 $45.18 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 112 AI Prompts
+🧠 27 AI Sessions, 147 AI Prompts
 
-Opus                     1,047 lines         █████████████░░░░░░░░░░░░   50.05 % 
-Sonnet                   1,045 lines         ████████████░░░░░░░░░░░░░   49.95 % 
+Sonnet                   2,807 lines         ████████████████░░░░░░░░░   62.43 % 
+Opus                     1,689 lines         █████████░░░░░░░░░░░░░░░░   37.57 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.85% of written lines came from AI
-📚 Verbose Prompter — average 5,548 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.83% of changed lines were hand-edited
+🤖 AI-Driven — 98.99% of written lines came from AI
+📚 Verbose Prompter — average 4,846 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -225,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 05:27:39 UTC
+ Last Updated on 31/10/2026 05:11:44 UTC
 <!--END_SECTION:waka-->
 
   <h3>⚡ Recent GitHub Activity</h3>
